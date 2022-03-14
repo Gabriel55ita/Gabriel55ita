@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gabriel
 - 👀 I’m 15 years old
-- 🌱 I’m currently learning Java and Python 
+- 🌱 I’m a Java Developer
+- 💾 Currently learning C++, C and Assembly
 
 <!---
 Gabriel55ita/Gabriel55ita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
