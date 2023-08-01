@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriel
-- 👀 I’m 16 years old
+- 👀 I’m 17 years old
 - 🌱 I’m a Java Developer
 - 💾 Currently learning C++, C and Assembly
 
