@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Gabriel
 - 👀 I’m 18 years old
 - 🌱 I’m a Java Developer
-- 💾 Currently learning C++, C and Assembly
+- 💾 Currently learning C++, C and Assembly (Arm, Arm64, MIPS)
+- 💻 Vintage Consoles and PC lover
+- ⚡ PSP (PlayStation Portable) and Electrical Engineering enthusiast
 
 <!---
 Gabriel55ita/Gabriel55ita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
