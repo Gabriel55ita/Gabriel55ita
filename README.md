@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriel
-- 👀 I’m 18 years old
+- 👀 I’m 19 years old
 - 💾 Currently learning C++, C and Assembly (Arm, Arm64, MIPS)
 - 💻 Vintage Consoles and PC lover
 - ⚡ PSP (PlayStation Portable) and Electrical Engineering enthusiast
