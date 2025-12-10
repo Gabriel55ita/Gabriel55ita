@@ -2,7 +2,7 @@
 - 👀 I’m 19 years old
 - 💾 Currently learning C++, C and Assembly (Arm, Arm64, MIPS)
 - 💻 Vintage Consoles and PC lover
-- ⚡ PSP (PlayStation Portable) and enthusiast
+- ⚡ PSP (PlayStation Portable) enthusiast
 - 📖 Studying for Electrical Engineering
 
 <!---
