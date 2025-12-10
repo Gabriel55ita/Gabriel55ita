@@ -2,7 +2,8 @@
 - 👀 I’m 19 years old
 - 💾 Currently learning C++, C and Assembly (Arm, Arm64, MIPS)
 - 💻 Vintage Consoles and PC lover
-- ⚡ PSP (PlayStation Portable) and Electrical Engineering enthusiast
+- ⚡ PSP (PlayStation Portable) and enthusiast
+- 📖 Studying for Electrical Engineering
 
 <!---
 Gabriel55ita/Gabriel55ita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
